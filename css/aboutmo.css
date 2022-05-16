@@ -1,0 +1,740 @@
+/* screen - aboutmo */
+
+.aboutmo {
+  background-color: var(--white);
+  height: 2505px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.aboutmo .background-cQTi71 {
+  background-color: transparent;
+  height: 2505px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.aboutmo .memory-oak-cQTi71 {
+  background-color: transparent;
+  font-weight: 700;
+  height: 61px;
+  left: 195px;
+  letter-spacing: 0.00px;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: auto;
+}
+
+.aboutmo .home-how-mo-works-about-mo-contact-us-cQTi71 {
+  background-color: transparent;
+  font-weight: 500;
+  height: 110px;
+  left: 1202px;
+  letter-spacing: 0.00px;
+  line-height: 110px;
+  position: absolute;
+  text-align: left;
+  top: 80px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.aboutmo .rectangle-1-cQTi71 {
+  background-color: transparent;
+  height: 2px;
+  left: 1494px;
+  position: absolute;
+  top: 112px;
+  width: 28px;
+}
+
+.aboutmo .lilly-rum-o-aap-ta-sn-ogc-unsplash-cQTi71 {
+  background-color: transparent;
+  height: 445px;
+  left: 166px;
+  position: absolute;
+  top: 1523px;
+  width: 796px;
+}
+
+.aboutmo .lilly-rum-o-aap-ta-sn-ogc-unsplash-VRxccI {
+  background-color: transparent;
+  height: 445px;
+  left: 166px;
+  position: absolute;
+  top: 1948px;
+  width: 796px;
+}
+
+.aboutmo .lilly-rum-o-aap-ta-sn-ogc-unsplash-HktbyG {
+  background-color: transparent;
+  height: 445px;
+  left: 959px;
+  position: absolute;
+  top: 1098px;
+  width: 796px;
+}
+
+.aboutmo .lilly-rum-o-aap-ta-sn-ogc-unsplash-FsIKXm {
+  background-color: transparent;
+  height: 445px;
+  left: 166px;
+  position: absolute;
+  top: 1098px;
+  width: 796px;
+}
+
+.aboutmo .lilly-rum-o-aap-ta-sn-ogc-unsplash-7Q8ZEL {
+  background-color: transparent;
+  height: 445px;
+  left: 959px;
+  position: absolute;
+  top: 1523px;
+  width: 796px;
+}
+
+.aboutmo .lilly-rum-o-aap-ta-sn-ogc-unsplash-ZcMWOZ {
+  background-color: transparent;
+  height: 445px;
+  left: 959px;
+  position: absolute;
+  top: 1948px;
+  width: 796px;
+}
+
+.aboutmo .lilly-rum-o-aap-ta-sn-ogc-unsplash-DlR0GC {
+  background-color: transparent;
+  height: 330px;
+  left: 1410px;
+  opacity: 0.05;
+  position: absolute;
+  top: 715px;
+  width: 532px;
+}
+
+.aboutmo .our-goal-is-to-provi-cQTi71 {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 195px;
+  letter-spacing: 0.00px;
+  line-height: 65px;
+  position: absolute;
+  text-align: left;
+  top: 307px;
+  width: 837px;
+}
+
+.aboutmo .lorem-ipsum-dolor-si-cQTi71 {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 195px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 524px;
+  width: 897px;
+}
+
+.aboutmo .manny-moreno-tb-xrt-gd-da-hy-unsplash-cQTi71 {
+  background-color: transparent;
+  height: 669px;
+  left: 1167px;
+  position: absolute;
+  top: 307px;
+  width: 558px;
+}
+
+.aboutmo .manny-moreno-tb-xrt-gd-da-hy-unsplash-nMKeEo {
+  background-color: transparent;
+  height: 669px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 558px;
+}
+
+.aboutmo .sed-tristique-mattis-cQTi71 {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 246px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1408px;
+  width: 612px;
+}
+
+.aboutmo .sed-tristique-mattis-VRxccI {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 1039px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1408px;
+  width: 612px;
+}
+
+.aboutmo .mo-being-a-non-profit-cQTi71 {
+  background-color: transparent;
+  font-weight: 700;
+  height: 44px;
+  left: 246px;
+  letter-spacing: 0.00px;
+  position: absolute;
+  text-align: left;
+  top: 1343px;
+  width: auto;
+}
+
+.aboutmo .no-fake-news-cQTi71 {
+  background-color: transparent;
+  font-weight: 700;
+  height: 44px;
+  left: 1039px;
+  letter-spacing: 0.00px;
+  position: absolute;
+  text-align: left;
+  top: 1343px;
+  width: auto;
+}
+
+.aboutmo .lilly-rum-o-aap-ta-sn-ogc-unsplash-2liQqe {
+  background-color: transparent;
+  height: 128px;
+  left: 1039px;
+  opacity: 0.06;
+  position: absolute;
+  top: 1185px;
+  width: 128px;
+}
+
+.aboutmo .no_fake_news-cQTi71 {
+  background-color: transparent;
+  height: 58px;
+  left: 1074px;
+  position: absolute;
+  top: 1220px;
+  width: 58px;
+}
+
+.aboutmo .vector-osxLjb {
+  background-color: transparent;
+  height: 28px;
+  left: 34px;
+  position: absolute;
+  top: 2px;
+  width: 22px;
+}
+
+.aboutmo .vector-lMk7rV {
+  background-color: transparent;
+  height: 56px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 45px;
+}
+
+.aboutmo .vector-37OsdF {
+  background-color: transparent;
+  height: 7px;
+  left: 18px;
+  position: absolute;
+  top: 28px;
+  width: 14px;
+}
+
+.aboutmo .vector-od0jcy {
+  background-color: transparent;
+  height: 7px;
+  left: 18px;
+  position: absolute;
+  top: 18px;
+  width: 14px;
+}
+
+.aboutmo .vector-tXN6qI {
+  background-color: transparent;
+  height: 7px;
+  left: 10px;
+  position: absolute;
+  top: 28px;
+  width: 7px;
+}
+
+.aboutmo .vector-NdfPby {
+  background-color: transparent;
+  height: 7px;
+  left: 10px;
+  position: absolute;
+  top: 18px;
+  width: 7px;
+}
+
+.aboutmo .sed-tristique-mattis-HktbyG {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 246px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1833px;
+  width: 612px;
+}
+
+.aboutmo .sed-tristique-mattis-FsIKXm {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 1039px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1833px;
+  width: 612px;
+}
+
+.aboutmo .green-energy-cQTi71 {
+  background-color: transparent;
+  font-weight: 700;
+  height: 44px;
+  left: 246px;
+  letter-spacing: 0.00px;
+  position: absolute;
+  text-align: left;
+  top: 1768px;
+  width: auto;
+}
+
+.aboutmo .group-28-cQTi71 {
+  background-color: transparent;
+  height: 128px;
+  left: 246px;
+  position: absolute;
+  top: 1610px;
+  width: 128px;
+}
+
+.aboutmo .lilly-rum-o-aap-ta-sn-ogc-unsplash-8nw3I5 {
+  background-color: transparent;
+  height: 128px;
+  left: 0px;
+  opacity: 0.06;
+  position: absolute;
+  top: 0px;
+  width: 128px;
+}
+
+.aboutmo .green_energy-8nw3I5 {
+  background-color: transparent;
+  height: 56px;
+  left: 36px;
+  position: absolute;
+  top: 36px;
+  width: 56px;
+}
+
+.aboutmo .flash-mpVq4d {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 56px;
+}
+
+.aboutmo .vector-bOvJmG {
+  background-color: transparent;
+  height: 53px;
+  left: 8px;
+  position: absolute;
+  top: 2px;
+  width: 41px;
+}
+
+.aboutmo .high-quality-images-cQTi71 {
+  background-color: transparent;
+  font-weight: 700;
+  height: 44px;
+  left: 1039px;
+  letter-spacing: 0.00px;
+  position: absolute;
+  text-align: left;
+  top: 1768px;
+  width: auto;
+}
+
+.aboutmo .group-29-cQTi71 {
+  background-color: transparent;
+  height: 128px;
+  left: 1039px;
+  position: absolute;
+  top: 1610px;
+  width: 128px;
+}
+
+.aboutmo .lilly-rum-o-aap-ta-sn-ogc-unsplash-EbmTXH {
+  background-color: transparent;
+  height: 128px;
+  left: 0px;
+  opacity: 0.06;
+  position: absolute;
+  top: 0px;
+  width: 128px;
+}
+
+.aboutmo .high_quality_images-EbmTXH {
+  background-color: transparent;
+  height: 58px;
+  left: 35px;
+  position: absolute;
+  top: 35px;
+  width: 58px;
+}
+
+.aboutmo .gallery-PKwaxd {
+  background-color: transparent;
+  height: 58px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 58px;
+}
+
+.aboutmo .vector-7fNXKa {
+  background-color: transparent;
+  height: 55px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 55px;
+}
+
+.aboutmo .vector-mkNCq0 {
+  background-color: transparent;
+  height: 16px;
+  left: 14px;
+  position: absolute;
+  top: 12px;
+  width: 17px;
+}
+
+.aboutmo .vector-XEmPkq {
+  background-color: transparent;
+  height: 24px;
+  left: 2px;
+  position: absolute;
+  top: 26px;
+  width: 54px;
+}
+
+.aboutmo .group-58-cQTi71 {
+  background-color: transparent;
+  height: 128px;
+  left: 246px;
+  position: absolute;
+  top: 1185px;
+  width: 128px;
+}
+
+.aboutmo .lilly-rum-o-aap-ta-sn-ogc-unsplash-Ol45OC {
+  background-color: transparent;
+  height: 128px;
+  left: 0px;
+  opacity: 0.06;
+  position: absolute;
+  top: 0px;
+  width: 128px;
+}
+
+.aboutmo .mo_being_a_nonprofit-Ol45OC {
+  background-color: transparent;
+  height: 60px;
+  left: 34px;
+  position: absolute;
+  top: 34px;
+  width: 60px;
+}
+
+.aboutmo .xmlid_129_-JcfxC2 {
+  background-color: transparent;
+  height: 28px;
+  left: 14px;
+  position: absolute;
+  top: 25px;
+  width: 13px;
+}
+
+.aboutmo .xmlid_448_-JcfxC2 {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+
+.aboutmo .everybody-pays-for-everybody-cQTi71 {
+  background-color: transparent;
+  font-weight: 700;
+  height: 44px;
+  left: 1039px;
+  letter-spacing: 0.00px;
+  position: absolute;
+  text-align: left;
+  top: 2193px;
+  width: auto;
+}
+
+.aboutmo .group-31-cQTi71 {
+  background-color: transparent;
+  height: 128px;
+  left: 1039px;
+  position: absolute;
+  top: 2035px;
+  width: 128px;
+}
+
+.aboutmo .lilly-rum-o-aap-ta-sn-ogc-unsplash-e7xqRp {
+  background-color: transparent;
+  height: 128px;
+  left: 0px;
+  opacity: 0.06;
+  position: absolute;
+  top: 0px;
+  width: 128px;
+}
+
+.aboutmo .everybody_pays_for_everybody-e7xqRp {
+  background-color: transparent;
+  height: 57px;
+  left: 36px;
+  position: absolute;
+  top: 36px;
+  width: 57px;
+}
+
+.aboutmo .group-jXgbZi {
+  background-color: transparent;
+  height: 24px;
+  left: 21px;
+  position: absolute;
+  top: 16px;
+  width: 15px;
+}
+
+.aboutmo .vector-APpJVm {
+  background-color: transparent;
+  height: 23px;
+  left: -2px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.aboutmo .vector-HNG5oq {
+  background-color: transparent;
+  height: 27px;
+  left: 4px;
+  position: absolute;
+  top: -2px;
+  width: 7px;
+}
+
+.aboutmo .vector-jXgbZi {
+  background-color: transparent;
+  height: 57px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 57px;
+}
+
+.aboutmo .vector-ip7FsV {
+  background-color: transparent;
+  height: 14px;
+  left: 42px;
+  position: absolute;
+  top: 2px;
+  width: 13px;
+}
+
+.aboutmo .vector-meEAIU {
+  background-color: transparent;
+  height: 16px;
+  left: 42px;
+  position: absolute;
+  top: -0px;
+  width: 15px;
+}
+
+.aboutmo .sed-tristique-mattis-7Q8ZEL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 246px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2258px;
+  width: 612px;
+}
+
+.aboutmo .sed-tristique-mattis-ZcMWOZ {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 1039px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2258px;
+  width: 612px;
+}
+
+.aboutmo .pricing-changes-every-month-cQTi71 {
+  background-color: transparent;
+  font-weight: 700;
+  height: 44px;
+  left: 246px;
+  letter-spacing: 0.00px;
+  position: absolute;
+  text-align: left;
+  top: 2193px;
+  width: auto;
+}
+
+.aboutmo .group-30-cQTi71 {
+  background-color: transparent;
+  height: 128px;
+  left: 246px;
+  position: absolute;
+  top: 2035px;
+  width: 128px;
+}
+
+.aboutmo .lilly-rum-o-aap-ta-sn-ogc-unsplash-dUNkk2 {
+  background-color: transparent;
+  height: 128px;
+  left: 0px;
+  opacity: 0.06;
+  position: absolute;
+  top: 0px;
+  width: 128px;
+}
+
+.aboutmo .pricing_changes_every_month-dUNkk2 {
+  background-color: transparent;
+  height: 57px;
+  left: 36px;
+  position: absolute;
+  top: 36px;
+  width: 57px;
+}
+
+.aboutmo .group-UOYtxL {
+  background-color: transparent;
+  height: 25px;
+  left: 20px;
+  position: absolute;
+  top: 16px;
+  width: 16px;
+}
+
+.aboutmo .vector-j8b2LQ {
+  background-color: transparent;
+  height: 23px;
+  left: -2px;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.aboutmo .vector-FRx4OA {
+  background-color: transparent;
+  height: 27px;
+  left: 4px;
+  position: absolute;
+  top: -2px;
+  width: 7px;
+}
+
+.aboutmo .vector-UOYtxL {
+  background-color: transparent;
+  height: 53px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 53px;
+}
+
+.aboutmo .vector-62cOrx {
+  background-color: transparent;
+  height: 16px;
+  left: 38px;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.aboutmo .vector-E5A5jl {
+  background-color: transparent;
+  height: 18px;
+  left: 36px;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+
+.aboutmo .x2022-memory-oak-all-rights-reserved-cQTi71 {
+  background-color: transparent;
+  font-weight: 600;
+  height: 100px;
+  left: 798px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  position: absolute;
+  text-align: left;
+  top: 2449px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.aboutmo .path-1734-cQTi71 {
+  background-color: transparent;
+  height: 55px;
+  left: 220px;
+  position: absolute;
+  top: 192px;
+  transform: rotate(90deg);
+  width: 5px;
+}
+
+.aboutmo .about-mo-cQTi71 {
+  background-color: transparent;
+  font-weight: 700;
+  height: 56px;
+  left: 280px;
+  letter-spacing: 0.00px;
+  position: absolute;
+  text-align: left;
+  top: 191px;
+  width: auto;
+}

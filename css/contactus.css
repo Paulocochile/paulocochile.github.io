@@ -1,0 +1,846 @@
+/* screen - contactus */
+
+.contactus {
+  background-color: var(--white);
+  height: 1187px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.contactus .background-oIv5dk {
+  background-color: transparent;
+  height: 1187px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.contactus .memory-oak-oIv5dk {
+  background-color: transparent;
+  font-weight: 700;
+  height: 61px;
+  left: 195px;
+  letter-spacing: 0.00px;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: auto;
+}
+
+.contactus .home-how-mo-works-about-mo-contact-us-oIv5dk {
+  background-color: transparent;
+  font-weight: 500;
+  height: 110px;
+  left: 1202px;
+  letter-spacing: 0.00px;
+  line-height: 110px;
+  position: absolute;
+  text-align: left;
+  top: 80px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contactus .rectangle-1-oIv5dk {
+  background-color: transparent;
+  height: 2px;
+  left: 1636px;
+  position: absolute;
+  top: 112px;
+  width: 28px;
+}
+
+.contactus .lilly-rum-o-aap-ta-sn-ogc-unsplash-oIv5dk {
+  background-color: transparent;
+  height: 827px;
+  left: 165px;
+  position: absolute;
+  top: 280px;
+  width: 1590px;
+}
+
+.contactus .lilly-rum-o-aap-ta-sn-ogc-unsplash-KExPox {
+  background-color: transparent;
+  height: 827px;
+  left: 165px;
+  position: absolute;
+  top: 280px;
+  width: 490px;
+}
+
+.contactus .contact-information-oIv5dk {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-quicksand);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: 38px;
+  left: 235px;
+  letter-spacing: 0.00px;
+  position: absolute;
+  text-align: left;
+  top: 355px;
+  width: auto;
+}
+
+.contactus .contact-us-oIv5dk {
+  background-color: transparent;
+  color: var(--eerie-black);
+  font-family: var(--font-family-quicksand);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: 38px;
+  left: 729px;
+  letter-spacing: 0.00px;
+  position: absolute;
+  text-align: left;
+  top: 347px;
+  width: auto;
+}
+
+.contactus .fill-in-the-form-and-oIv5dk {
+  background-color: transparent;
+  color: #f6e2ff;
+  font-family: var(--font-family-quicksand);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 235px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 406px;
+  width: 385px;
+}
+
+.contactus .lorem-ipsum-is-simpl-oIv5dk {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 729px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 398px;
+  width: 935px;
+}
+
+.contactus .jondeo20gmailcom-oIv5dk {
+  background-color: transparent;
+  font-weight: 600;
+  height: 21px;
+  left: 281px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 591px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contactus .email-oIv5dk {
+  background-color: transparent;
+  height: 24px;
+  left: 235px;
+  position: absolute;
+  top: 589px;
+  width: 24px;
+}
+
+.contactus .sms-gHCMWX {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.contactus .vector-sNnsJR {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 24px;
+}
+
+.contactus .vector-vfVGKX {
+  background-color: transparent;
+  height: 6px;
+  left: 5px;
+  position: absolute;
+  top: 7px;
+  width: 14px;
+}
+
+.contactus .x123-456-7890-oIv5dk {
+  background-color: transparent;
+  font-weight: 600;
+  height: 21px;
+  left: 281px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 520px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contactus .phone-oIv5dk {
+  background-color: transparent;
+  height: 24px;
+  left: 235px;
+  position: absolute;
+  top: 518px;
+  width: 24px;
+}
+
+.contactus .call-calling-4eGHzB {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.contactus .call-calling-UtxUnD {
+  background-color: transparent;
+  height: 22px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 22px;
+}
+
+.contactus .icon-call-dVgopH {
+  background-color: transparent;
+  height: 24px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 24px;
+}
+
+.contactus .vector-dVgopH {
+  background-color: transparent;
+  height: 8px;
+  left: 12px;
+  position: absolute;
+  top: 2px;
+  width: 8px;
+}
+
+.contactus .vector-QhPxxl {
+  background-color: transparent;
+  height: 10px;
+  left: 12px;
+  position: absolute;
+  top: -1px;
+  width: 10px;
+}
+
+.contactus .rio-nowakowska-zabin-oIv5dk {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 281px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  top: 659px;
+  width: 344px;
+}
+
+.contactus .location-oIv5dk {
+  background-color: transparent;
+  height: 24px;
+  left: 235px;
+  position: absolute;
+  top: 657px;
+  width: 24px;
+}
+
+.contactus .location-BpXxDp {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.contactus .vector-Ex06sZ {
+  background-color: transparent;
+  height: 10px;
+  left: 7px;
+  position: absolute;
+  top: 5px;
+  width: 10px;
+}
+
+.contactus .vector-LCyIZ5 {
+  background-color: transparent;
+  height: 24px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.contactus .email-KExPox {
+  background-color: transparent;
+  font-weight: 600;
+  height: 21px;
+  left: 730px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 625px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contactus .first-name-oIv5dk {
+  background-color: transparent;
+  font-weight: 600;
+  height: 21px;
+  left: 730px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 491px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contactus .pablo-oIv5dk {
+  background-color: transparent;
+  font-weight: 600;
+  height: 21px;
+  left: 730px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 532px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contactus .pabloayala20gmailco-oIv5dk {
+  background-color: transparent;
+  font-weight: 600;
+  height: 21px;
+  left: 730px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 666px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contactus .line-18-oIv5dk {
+  background-color: transparent;
+  height: 3px;
+  left: 728px;
+  position: absolute;
+  top: 568px;
+  width: 431px;
+}
+
+.contactus .line-21-oIv5dk {
+  background-color: transparent;
+  height: 3px;
+  left: 728px;
+  position: absolute;
+  top: 700px;
+  width: 431px;
+}
+
+.contactus .phone-KExPox {
+  background-color: transparent;
+  font-weight: 600;
+  height: 21px;
+  left: 1230px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 625px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contactus .last-name-oIv5dk {
+  background-color: transparent;
+  font-weight: 600;
+  height: 21px;
+  left: 1230px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 491px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contactus .ayala-oIv5dk {
+  background-color: transparent;
+  font-weight: 600;
+  height: 21px;
+  left: 1230px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 532px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contactus .x123-456-7890-KExPox {
+  background-color: transparent;
+  font-weight: 600;
+  height: 21px;
+  left: 1230px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 666px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contactus .line-24-oIv5dk {
+  background-color: transparent;
+  height: 3px;
+  left: 1228px;
+  position: absolute;
+  top: 568px;
+  width: 431px;
+}
+
+.contactus .line-25-oIv5dk {
+  background-color: transparent;
+  height: 3px;
+  left: 1228px;
+  position: absolute;
+  top: 700px;
+  width: 431px;
+}
+
+.contactus .message-oIv5dk {
+  background-color: transparent;
+  font-weight: 600;
+  height: 21px;
+  left: 730px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 758px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contactus .line-23-oIv5dk {
+  background-color: transparent;
+  height: 12px;
+  left: 728px;
+  position: absolute;
+  top: 884px;
+  width: 931px;
+}
+
+.contactus .sed-tristique-mattis-oIv5dk {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 730px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 796px;
+  width: 930px;
+}
+
+.contactus .x2022-memory-oak-all-rights-reserved-oIv5dk {
+  background-color: transparent;
+  font-weight: 600;
+  height: 100px;
+  left: 798px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  position: absolute;
+  text-align: left;
+  top: 1136px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contactus .ellipse-20-oIv5dk {
+  background-color: transparent;
+  height: 408px;
+  left: 459px;
+  opacity: 0.08;
+  position: absolute;
+  top: 870px;
+  width: 408px;
+}
+
+.contactus .group-6-oIv5dk {
+  background-color: transparent;
+  height: 120px;
+  left: 700px;
+  position: absolute;
+  top: 922px;
+  width: 240px;
+}
+
+.contactus .rectangle-50-rkNsZS {
+  background-color: transparent;
+  height: 120px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 238px;
+}
+
+.contactus .send-rkNsZS {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-quicksand);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: 26px;
+  left: 99px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contactus .ellipse-21-oIv5dk {
+  background-color: transparent;
+  height: 102px;
+  left: 478px;
+  opacity: 0.08;
+  position: absolute;
+  top: 853px;
+  width: 102px;
+}
+
+.contactus .group-27-oIv5dk {
+  background-color: transparent;
+  height: 96px;
+  left: 210px;
+  position: absolute;
+  top: 960px;
+  width: 264px;
+}
+
+.contactus .group-26-GqhQxg {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 96px;
+}
+
+.contactus .ellipse-2-QvFYhA {
+  background-color: transparent;
+  height: 94px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 94px;
+}
+
+.contactus .facebook-QvFYhA {
+  background-color: transparent;
+  height: 17px;
+  left: 44px;
+  position: absolute;
+  top: 37px;
+  width: 9px;
+}
+
+.contactus .icon-facebook-I1dFdI {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.contactus .group-24-GqhQxg {
+  background-color: transparent;
+  height: 96px;
+  left: 112px;
+  position: absolute;
+  top: 0px;
+  width: 96px;
+}
+
+.contactus .ellipse-3-U5uT5X {
+  background-color: transparent;
+  height: 94px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 94px;
+}
+
+.contactus .apple-U5uT5X {
+  background-color: transparent;
+  height: 19px;
+  left: 40px;
+  position: absolute;
+  top: 35px;
+  width: 15px;
+}
+
+.contactus .group-3-Ss1xcW {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 15px;
+}
+
+.contactus .path-3-LxV7Ty {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 15px;
+}
+
+.contactus .path-4-LxV7Ty {
+  background-color: transparent;
+  height: 4px;
+  left: 8px;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.contactus .group-25-GqhQxg {
+  background-color: transparent;
+  height: 96px;
+  left: 56px;
+  position: absolute;
+  top: 0px;
+  width: 96px;
+}
+
+.contactus .ellipse-2-xzqAJp {
+  background-color: transparent;
+  height: 94px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 94px;
+}
+
+.contactus .google-xzqAJp {
+  background-color: transparent;
+  height: 16px;
+  left: 40px;
+  position: absolute;
+  top: 37px;
+  width: 15px;
+}
+
+.contactus .path-5-mnhBbI {
+  background-color: transparent;
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.contactus .path-6-mnhBbI {
+  background-color: transparent;
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.contactus .path-7-mnhBbI {
+  background-color: transparent;
+  height: 7px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 3px;
+}
+
+.contactus .group-4-mnhBbI {
+  background-color: transparent;
+  height: 7px;
+  left: 1px;
+  position: absolute;
+  top: 4px;
+  width: 3px;
+}
+
+.contactus .path-8-jsDxA5 {
+  background-color: transparent;
+  height: 7px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+
+.contactus .path-9-mnhBbI {
+  background-color: transparent;
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  top: 9px;
+  width: 12px;
+}
+
+.contactus .path-10-mnhBbI {
+  background-color: transparent;
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  top: 11px;
+  width: 12px;
+}
+
+.contactus .path-11-mnhBbI {
+  background-color: transparent;
+  height: 7px;
+  left: 8px;
+  position: absolute;
+  top: 6px;
+  width: 7px;
+}
+
+.contactus .group-5-mnhBbI {
+  background-color: transparent;
+  height: 7px;
+  left: 8px;
+  position: absolute;
+  top: 6px;
+  width: 7px;
+}
+
+.contactus .path-12-1g5b6G {
+  background-color: transparent;
+  height: 7px;
+  left: 5px;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+
+.contactus .path-13-1g5b6G {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 4px;
+}
+
+.contactus .group-23-GqhQxg {
+  background-color: transparent;
+  height: 96px;
+  left: 168px;
+  position: absolute;
+  top: 0px;
+  width: 96px;
+}
+
+.contactus .ellipse-22-XQM7LV {
+  background-color: transparent;
+  height: 94px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 94px;
+}
+
+.contactus .instagram-XQM7LV {
+  background-color: transparent;
+  height: 18px;
+  left: 39px;
+  position: absolute;
+  top: 36px;
+  width: 18px;
+}
+
+.contactus .path-1732-m31ObE {
+  background-color: transparent;
+  height: 7px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 7px;
+}
+
+.contactus .path-1733-m31ObE {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.contactus .path-1734-oIv5dk {
+  background-color: transparent;
+  height: 55px;
+  left: 220px;
+  position: absolute;
+  top: 192px;
+  transform: rotate(90deg);
+  width: 5px;
+}
+
+.contactus .contact-us-KExPox {
+  background-color: transparent;
+  font-weight: 700;
+  height: 56px;
+  left: 280px;
+  letter-spacing: 0.00px;
+  position: absolute;
+  text-align: left;
+  top: 191px;
+  width: auto;
+}
