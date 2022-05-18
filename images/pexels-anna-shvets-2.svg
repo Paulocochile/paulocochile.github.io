@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="324" height="59" viewBox="0 0 324 59">
+  <defs>
+    <filter id="pexels-anna-shvets-5325922" x="0" y="0" width="324" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#pexels-anna-shvets-5325922)">
+    <g id="pexels-anna-shvets-5325922-2" data-name="pexels-anna-shvets-5325922" transform="translate(27 24)" fill="#fff" stroke="#fff" stroke-width="5">
+      <rect width="270" height="5" rx="2.5" stroke="none"/>
+      <rect x="2.5" y="2.5" width="265" fill="none"/>
+    </g>
+  </g>
+</svg>
