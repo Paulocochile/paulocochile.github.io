@@ -383,11 +383,16 @@ hr {
   position: absolute;
   top: 0px;
   right: 0px;
+  z-index: 950;
 }
 
 .responsiveimage {
   width: 100%;
   height: auto;
+}
+
+.familyphotos {
+  display: none;
 }
 
 footer {
@@ -408,6 +413,17 @@ footer {
 
 .appbutton {
   max-width: 200px;
+}
+
+.responsiveicon {
+  height: auto;
+  width: 35px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+#topmenu {
+  display: none;
 }
 
 /* Clearing
@@ -436,7 +452,19 @@ there.
 @media (min-width: 400px) {}
 
 /* Larger than phablet (also point when grid becomes active) */
-@media (min-width: 550px) {}
+@media (min-width: 550px) {
+  #burger {
+    display: none;
+  }
+
+  #topmenu {
+    display: initial;
+  }
+
+  .familyphotos {
+    display: initial;
+  }
+}
 
 /* Larger than tablet */
 @media (min-width: 750px) {}
