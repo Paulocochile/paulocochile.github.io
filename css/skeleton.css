@@ -417,6 +417,10 @@ footer {
   max-width: 200px;
 }
 
+.appbuttons {
+  margin-left: 20%;
+}
+
 #topmenu {
   display: none;
   text-align: center;
@@ -427,9 +431,10 @@ footer {
   height: auto;
   width: 35px;
   height: 35px;
-  margin: 20px 10px 0px 14px;
+  margin: 17px 13px 0px 25px;
   top: 5px;
-  position: relative;
+  right: 0px;
+  position: absolute;
   border: none;
   background-image: url(../images/responsiveicon.svg);
   background-repeat: no-repeat;
@@ -479,6 +484,10 @@ there.
 
   .familyphotos {
     display: initial;
+  }
+
+  .appbuttons {
+    margin-left: auto;
   }
 }
 
