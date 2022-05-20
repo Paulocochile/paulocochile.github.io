@@ -124,7 +124,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Quicksand", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Quicksand", Helvetica, Arial, sans-serif;
   color: #222; }
 
 
@@ -398,6 +398,8 @@ hr {
 footer {
   text-align: center;
   bottom: 5px;
+  margin-top: 50px;
+  margin-bottom: 15px;
   
 }
 
@@ -415,15 +417,29 @@ footer {
   max-width: 200px;
 }
 
-.responsiveicon {
-  height: auto;
-  width: 35px;
-  margin-top: 20px;
-  margin-left: 20px;
-}
-
 #topmenu {
   display: none;
+  text-align: center;
+}
+
+#botoninvisible {
+  z-index: 100;
+  height: auto;
+  width: 35px;
+  height: 35px;
+  margin: 20px 10px 0px 14px;
+  top: 5px;
+  position: relative;
+  border: none;
+  background-image: url(../images/responsiveicon.svg);
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+body{
+  background:url(../images/Path\ 59.svg);  
+  background-repeat: no-repeat;
+  background-position-x: right;
 }
 
 /* Clearing
@@ -453,7 +469,7 @@ there.
 
 /* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {
-  #burger {
+  #botoninvisible {
     display: none;
   }
 
