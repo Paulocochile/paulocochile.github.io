@@ -441,7 +441,7 @@ footer {
   background-position: center; 
 }
 
-body{
+.homecontainer {
   background:url(../images/Path\ 59.svg);  
   background-repeat: no-repeat;
   background-position-x: right;
