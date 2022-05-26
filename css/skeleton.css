@@ -464,6 +464,27 @@ footer {
   max-height: 95px;
 }
 
+.manifestotext {
+  margin-top: 1rem; 
+  margin-bottom: 1rem;
+}
+
+.formrow {
+  text-align: center;
+}
+
+.emailbox {
+  width: 100%;
+  height: 400px;
+  border-radius: 10px;
+}
+
+.messagebox {
+  width: 100%;
+  height: 400px;
+  border-radius: 10px;
+}
+
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -513,6 +534,14 @@ there.
 
   .appbuttonright {
     float: right;
+  }
+
+  .emailbox {
+    width: 60%;
+  }
+  
+  .messagebox {
+    width: 60%;
   }
 }
 
