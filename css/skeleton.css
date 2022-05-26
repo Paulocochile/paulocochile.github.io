@@ -403,7 +403,7 @@ hr {
   width: 100%;
   -webkit-box-shadow: 0px 0px 30px 3px rgba(182,169,188,0.14); 
   box-shadow: 0px 0px 30px 3px rgba(182,169,188,0.14);
-  padding: 1.5%;
+  padding: 20px;
   border-radius: 15px;
   text-align: center;
 }
@@ -465,8 +465,8 @@ footer {
 }
 
 .manifestotext {
-  margin-top: 1rem; 
-  margin-bottom: 1rem;
+  margin-top: 0.5rem; 
+  margin-bottom: 0.5rem;
 }
 
 .formrow {
